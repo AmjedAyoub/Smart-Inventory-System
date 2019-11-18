@@ -1,0 +1,33 @@
+/////// hadoool bt7o6hom mn fog .... 3nd tab3at el using ... 
+
+using System.Data.SqlClient;
+using System.Data.Sql;
+
+_________________________________________________________________
+
+/////////// hadool bt7o6hom b l makan taba3 code el Login button ... 
+
+
+SqlConnection cn = new SqlConnection(con);
+          bool blnfound = false;
+
+            string con = "Data Source=.;Initial Catalog=club;Integrated Security=True";
+
+            
+            cn.Open();
+            SqlCommand cmd = new SqlCommand("select * from Login", cn);
+            SqlDataReader dr = cmd.ExecuteReader();
+            while (dr.Read())
+            {
+                if (dr["E_Username"].ToString() == textBox1.Text)
+                {
+                    if (dr["E_Password"].ToString() == textBox2.Text)
+                    {
+                        blnfound = true;
+                    }
+            }
+            }
+            if (blnfound == false)
+                MessageBox.Show("wrong login");
+            dr.Close();
+            cn.Close(); 

@@ -1,0 +1,470 @@
+c:\users\sa'ed\documents\visual studio 2010\Projects\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.exe
+c:\users\sa'ed\documents\visual studio 2010\Projects\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.pdb
+c:\users\sa'ed\documents\visual studio 2010\Projects\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sa'ed\documents\visual studio 2010\Projects\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Form1.resources
+c:\users\sa'ed\documents\visual studio 2010\Projects\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Properties.Resources.resources
+c:\users\sa'ed\documents\visual studio 2010\Projects\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sa'ed\documents\visual studio 2010\Projects\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\sa'ed\documents\visual studio 2010\Projects\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.exe
+c:\users\sa'ed\documents\visual studio 2010\Projects\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.pdb
+C:\Users\Sa'ed\documents\visual studio 2010\Projects\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.exe.config
+C:\Users\Sa'ed\documents\visual studio 2010\Projects\GraduationProjectTest\GraduationProjectTest\bin\Debug\Database1.sdf
+C:\Users\Sa'ed\documents\visual studio 2010\Projects\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Login.resources
+C:\Users\amjad\Desktop\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.exe.config
+C:\Users\amjad\Desktop\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.exe
+C:\Users\amjad\Desktop\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.pdb
+C:\Users\amjad\Desktop\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.exe
+C:\Users\amjad\Desktop\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.pdb
+C:\Users\amjad\Desktop\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\amjad\Desktop\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Form1.resources
+C:\Users\amjad\Desktop\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Login.resources
+C:\Users\amjad\Desktop\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Properties.Resources.resources
+C:\Users\amjad\Desktop\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\amjad\Desktop\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\amjad\Desktop\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Help.resources
+C:\Users\amjad\Desktop\GraduationProjectTest\GraduationProjectTest\bin\Debug\Database1.mdf
+C:\Users\amjad\Desktop\GraduationProjectTest\GraduationProjectTest\bin\Debug\Database1_log.ldf
+C:\Users\amjad\Desktop\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manager.resources
+C:\Users\amjad\Desktop\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Addemployee.resources
+C:\Users\amjad\Desktop\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Editemployee.resources
+C:\Users\amjad\Desktop\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.addcustomer.resources
+C:\Users\amjad\Desktop\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.editcustomer.resources
+C:\Users\amjad\Desktop\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.additem.resources
+C:\Users\amjad\Desktop\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Destroyitems.resources
+C:\Users\amjad\Desktop\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Edititem.resources
+C:\Users\amjad\Desktop\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Cash.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\bin\Debug\GraduationProjectTest.exe.config
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.exe
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.pdb
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.addcustomer.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Addemployee.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.additem.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.BuyItem.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Cash.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.cashkeybourd.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.changebuttonname.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.changemenuname.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.deleteemp.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.deleteitem.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Destroyitems.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.discount.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.editcustomer.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Editemployee.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Edititem.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Form1.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Help.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.insertpassword.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Insertquantity.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Login.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manager_password.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manager.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Maps.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Properties.Resources.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Showemployee.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.tabels.resources
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\bin\Debug\Database1.mdf
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\bin\Debug\Database1_log.ldf
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\bin\Debug\GraduationProjectTest.exe
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\bin\Debug\GraduationProjectTest.pdb
+C:\Users\amjad\Desktop\sis\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.delivery.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\bin\Debug\Database1.mdf
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\bin\Debug\Database1_log.ldf
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.exe.config
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.exe
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.pdb
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.addcustomer.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Addemployee.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.additem.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.BuyItem.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Cash.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.cashkeybourd.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.changebuttonname.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.changemenuname.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.changepass.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.dailysales.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.deleteemp.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.deleteitem.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.delivery.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Destroyitems.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.discount.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.editcustomer.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Editemployee.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Edititem.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.employeeswithdraw.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Form1.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Help.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.insertpassword.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Insertquantity.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Login.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manager_password.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manager.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Maps.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Properties.Resources.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Showemployee.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.tabels.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\RdlCompile.cache
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\RdlCompile.compiled
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.exe
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.pdb
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.mesage.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\bin\Debug\Database1.mdf
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\bin\Debug\Database1_log.ldf
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.exe.config
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.exe
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.pdb
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.addcustomer.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Addemployee.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.additem.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.BuyItem.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Cash.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.cashkeybourd.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.changebuttonname.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.changemenuname.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.changepass.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.dailyinventory.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.dailysales.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manamonthlysales.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manbuyinglist.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manbuyspec.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.mandailysales.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.mansalesspecperiod.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manyearlysales.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.salesforspecitem.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.viewavaitems.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.viewspecitem.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.deleteemp.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.deleteitem.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.delivery.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Destroyitems.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.discount.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.editcustomer.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Editemployee.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Edititem.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.employeeswithdraw.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Form1.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Help.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.insertpassword.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Insertquantity.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Login.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manager_password.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manager.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Maps.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.mesage.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Properties.Resources.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Showemployee.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.tabels.resources
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\RdlCompile.cache
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\RdlCompile.compiled
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.exe
+D:\GP Last one 264\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.pdb
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.closingcash.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manamonthlysales.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manbuyinglist.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manbuyspec.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.mandailysales.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.mansalesspecperiod.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manyearlysales.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.offers.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.salesforspecitem.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.viewavaitems.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.viewspecitem.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manchangepass.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.sallary.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.monthlyinventory.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.monthlyprofit.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.yearlyinventory.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.yearlyprofit.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.insertexpenses.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.viewexpenses.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.exe.config
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.exe
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.pdb
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\bin\Debug\Database1.mdf
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\bin\Debug\Database1_log.ldf
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.exe
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.pdb
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.addcustomer.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Addemployee.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.additem.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.BuyItem.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Cash.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.cashkeybourd.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.changebuttonname.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.changemenuname.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.changepass.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.closingcash.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.dailysales.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.delivery.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.employeeswithdraw.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.insertexpenses.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manamonthlysales.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manbuyinglist.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manbuyspec.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manchangepass.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.mandailysales.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.mansalesspecperiod.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manyearlysales.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.mesage.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.monthlyinventory.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.monthlyprofit.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.offers.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.salesforspecitem.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.sallary.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.viewavaitems.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.viewexpenses.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.viewspecitem.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.yearlyinventory.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.yearlyprofit.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.deleteemp.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.deleteitem.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Destroyitems.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.discount.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.editcustomer.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Editemployee.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Edititem.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Form1.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Help.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.insertpassword.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Insertquantity.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Login.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manager_password.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manager.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Maps.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Properties.Resources.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Showemployee.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.tabels.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\RdlCompile.cache
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\RdlCompile.compiled
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.salesChart.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.netProfitChart.resources
+D:\GP Final\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.DeliveryChart.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.DeliveryChart.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.netProfitChart.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.salesChart.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.makeoffer.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Billinglist.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Billview.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.availableoffers.resources
+C:\Users\amjad\Desktop\Amjad-CS\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.showsuggestedoffers.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.exe.config
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.exe
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.pdb
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\bin\Debug\Database1.mdf
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\bin\Debug\Database1_log.ldf
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.exe
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.pdb
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.addcustomer.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Addemployee.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.additem.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.availableoffers.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Billinglist.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Billview.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.BuyItem.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Cash.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.cashkeybourd.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.changebuttonname.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.changemenuname.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.changepass.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.closingcash.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.dailysales.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.delivery.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.DeliveryChart.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.employeeswithdraw.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.insertexpenses.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.makeoffer.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manamonthlysales.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manbuyinglist.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manbuyspec.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manchangepass.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.mandailysales.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.mansalesspecperiod.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manyearlysales.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.mesage.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.monthlyinventory.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.monthlyprofit.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.netProfitChart.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.offers.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.salesChart.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.salesforspecitem.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.sallary.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.showsuggestedoffers.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.viewavaitems.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.viewexpenses.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.viewspecitem.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.yearlyinventory.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.yearlyprofit.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.deleteemp.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.deleteitem.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Destroyitems.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.discount.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.editcustomer.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Editemployee.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Edititem.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Form1.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Help.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.insertpassword.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Insertquantity.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Login.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manager_password.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manager.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Maps.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Properties.Resources.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Showemployee.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.tabels.resources
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\RdlCompile.cache
+C:\Users\amjad\Desktop\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.exe.config
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.exe
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.pdb
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\bin\Debug\Database1.mdf
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\bin\Debug\Database1_log.ldf
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.exe
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.pdb
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.addcustomer.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Addemployee.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.additem.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.availableoffers.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Billinglist.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Billview.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.BuyItem.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Cash.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.cashkeybourd.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.changebuttonname.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.changemenuname.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.changepass.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.closingcash.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.dailysales.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.delivery.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.DeliveryChart.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.employeeswithdraw.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.insertexpenses.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.makeoffer.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manamonthlysales.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manbuyinglist.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manbuyspec.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manchangepass.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.mandailysales.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.mansalesspecperiod.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manyearlysales.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.mesage.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.monthlyinventory.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.monthlyprofit.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.netProfitChart.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.offers.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.salesChart.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.salesforspecitem.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.sallary.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.showsuggestedoffers.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.viewavaitems.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.viewexpenses.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.viewspecitem.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.yearlyinventory.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.yearlyprofit.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.deleteemp.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.deleteitem.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Destroyitems.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.discount.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.editcustomer.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Editemployee.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Edititem.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Form1.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Help.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.insertpassword.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Insertquantity.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Login.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manager_password.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manager.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Maps.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Properties.Resources.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Showemployee.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.tabels.resources
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\RdlCompile.cache
+C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.exe.config
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.exe
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.pdb
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\bin\Debug\Database1.mdf
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\bin\Debug\Database1_log.ldf
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.exe
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\bin\Debug\GraduationProjectTest.pdb
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.addcustomer.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Addemployee.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.additem.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.availableoffers.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Billinglist.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Billview.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.BuyItem.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Cash.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.cashkeybourd.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.changebuttonname.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.changemenuname.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.changepass.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.closingcash.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.dailysales.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.delivery.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.DeliveryChart.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.employeeswithdraw.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.insertexpenses.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.makeoffer.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manamonthlysales.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manbuyinglist.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manbuyspec.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manchangepass.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.mandailysales.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.mansalesspecperiod.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manyearlysales.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.mesage.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.monthlyinventory.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.monthlyprofit.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.netProfitChart.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.offers.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.salesChart.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.salesforspecitem.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.sallary.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.showsuggestedoffers.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.viewavaitems.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.viewexpenses.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.viewspecitem.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.yearlyinventory.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.yearlyprofit.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.deleteemp.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.deleteitem.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Destroyitems.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.discount.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.editcustomer.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Editemployee.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Edititem.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Form1.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Help.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.insertpassword.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Insertquantity.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Login.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manager_password.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.manager.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Maps.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Properties.Resources.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.Showemployee.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GraduationProjectTest.tabels.resources
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\RdlCompile.cache
+C:\Users\Amjad Ayoub\Desktop\Amjad\amjad-cs\the last\GraduationProjectTest\GraduationProjectTest\obj\x86\Debug\RdlCompile.compiled

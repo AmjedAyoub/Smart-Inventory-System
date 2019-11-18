@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="Database1ModelStoreContainer">
+    <EntitySet Name="Employees" EntityType="Database1Model.Store.Employees" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Employees">
+    <Key>
+      <PropertyRef Name="E_ID" />
+    </Key>
+    <Property Name="E_ID" Type="int" Nullable="false" />
+    <Property Name="E_Firstname" Type="varchar" MaxLength="50" />
+    <Property Name="E_Lastname" Type="varchar" MaxLength="50" />
+    <Property Name="E_Hiredate" Type="date" />
+    <Property Name="E_Email" Type="varchar" MaxLength="50" />
+    <Property Name="E_Contactnum" Type="varchar" MaxLength="50" />
+    <Property Name="E_Job" Type="varchar" MaxLength="50" />
+    <Property Name="E_Sallary" Type="float" />
+    <Property Name="E_Drop" Type="float" />
+    <Property Name="E_Workshours" Type="float" />
+  </EntityType>
+</Schema>

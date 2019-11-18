@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Database1" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\Database1.mdf;Integrated Security=True;User Instance=True" SettingsObjectName="GraduationProjectTest.Properties.Settings" SettingsPropertyName="Database1ConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Billing" Member="Billings">
+    <Type Name="Billing">
+      <Column Name="B_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="B_Date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="B_Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="B_Netamount" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="B_Discount" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="B_Addedtax" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Delivery" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="C_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="C_FirstName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="C_LastName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="C_Num" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="C_Address" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="I_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="I_Sellingprice" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="I_Name" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="I_Price" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="I_Quantity" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="I_Cashier" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Customer_Billing" Member="Customer" ThisKey="C_ID" OtherKey="C_ID" Type="Customer" IsForeignKey="true" />
+      <Association Name="Item_Billing" Member="Item" ThisKey="I_ID" OtherKey="I_ID" Type="Item" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Buy" Member="Buys">
+    <Type Name="Buy">
+      <Column Name="I_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="I_Name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="I_Quantity" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Buy_Price" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="B_date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Company" Member="Companies">
+    <Type Name="Company">
+      <Column Name="Com_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Com_Name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="I_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="I_Name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="I_Price" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="I_Tax" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="Company_Item" Member="Items" ThisKey="Com_ID" OtherKey="Com_ID" Type="Item" />
+      <Association Name="Item_Company" Member="Item" ThisKey="I_ID" OtherKey="I_ID" Type="Item" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Customer" Member="Customers">
+    <Type Name="Customer">
+      <Column Name="C_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="C_FirstName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="C_LastName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="C_Email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="C_Contactnumber" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="C_City" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="C_Stname" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="C_Bildingnum" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="C_Floor" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="C_Apartment" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Customer_Billing" Member="Billings" ThisKey="C_ID" OtherKey="C_ID" Type="Billing" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Delivery" Member="Deliveries">
+    <Type Name="Delivery">
+      <Column Name="D_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Drivername" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="C_address" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="D_amount" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="D_Date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="D_time" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.deliverydetails" Member="deliverydetails">
+    <Type Name="deliverydetail">
+      <Column Name="D_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Drivername" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="I_Name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="C_address" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="I_Price" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="I_Quantity" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[Destroy list]" Member="Destroy_lists">
+    <Type Name="Destroy_list">
+      <Column Name="Des_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Des_Date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="I_Name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="I_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="I_Quantity" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="Item_Destroy_list" Member="Item" ThisKey="I_ID" OtherKey="I_ID" Type="Item" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Employees" Member="Employees">
+    <Type Name="Employee">
+      <Column Name="E_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="E_Firstname" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="E_Lastname" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="E_Hiredate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="E_Email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="E_Contactnum" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="E_Job" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="E_Sallary" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="E_Drop" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="E_Workshours" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="E_Username" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="E_Password" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Items" Member="Items">
+    <Type Name="Item">
+      <Column Name="I_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="I_Name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Com_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="I_Company" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="I_Type" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="I_Quantity" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="I_Expirydate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="I_Unit" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="I_Wholesaleprice" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="I_Tax" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="I_sellingprice" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="I_Date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="I_Discription" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Association Name="Item_Billing" Member="Billings" ThisKey="I_ID" OtherKey="I_ID" Type="Billing" />
+      <Association Name="Item_Company" Member="Companies" ThisKey="I_ID" OtherKey="I_ID" Type="Company" />
+      <Association Name="Item_Destroy_list" Member="Destroy_lists" ThisKey="I_ID" OtherKey="I_ID" Type="Destroy_list" />
+      <Association Name="Item_Offer" Member="Offers" ThisKey="I_ID" OtherKey="I_ID" Type="Offer" />
+      <Association Name="Item_Sale" Member="Sales" ThisKey="I_ID" OtherKey="I_ID" Type="Sale" />
+      <Association Name="Company_Item" Member="Company" ThisKey="Com_ID" OtherKey="Com_ID" Type="Company" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Login" Member="Logins">
+    <Type Name="Login">
+      <Column Name="E_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="E_Username" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="E_Password" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Offers" Member="Offers">
+    <Type Name="Offer">
+      <Column Name="O_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="O_Startdate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="O_Enddate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="O_Discount" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="O_Quantity" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="O_Netprofit" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="I_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Item_Offer" Member="Item" ThisKey="I_ID" OtherKey="I_ID" Type="Item" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[Return]" Member="Returns">
+    <Type Name="Return">
+      <Column Name="I_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="I_Name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="I_Quantity" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="R_Date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Sales" Member="Sales">
+    <Type Name="Sale">
+      <Column Name="S_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="S_Date" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="S_Sum" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="S_Netprofit" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="I_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="I_Name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="I_Quantity" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="Item_Sale" Member="Item" ThisKey="I_ID" OtherKey="I_ID" Type="Item" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Visa" Member="Visas">
+    <Type Name="Visa">
+      <Column Name="B_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="B_Amount" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="B_Date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="B_Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="Cashier" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

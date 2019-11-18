@@ -1,0 +1,41 @@
+ private void searchname_btn_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                SqlConnection con;
+                con = new System.Data.SqlClient.SqlConnection();
+                con.ConnectionString = "Data Source=.\\SQLEXPRESS;AttachDbFilename=|DataDirectory|\\Database1.mdf;Integrated Security=True;User Instance=True";
+                DataTable dt = new DataTable();
+                SqlDataAdapter SDA = new SqlDataAdapter("SELECT * FROM [Customer] where C_Firstname like '" + textBox2.Text + "'", con);
+                con.Open();
+                SDA.Fill(dt);
+
+                con.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message.ToString());
+            }
+            SqlConnection con1;
+            con1 = new System.Data.SqlClient.SqlConnection();
+            con1.ConnectionString = "Data Source=.\\SQLEXPRESS;AttachDbFilename=|DataDirectory|\\Database1.mdf;Integrated Security=True;User Instance=True";
+            using (var command = con1.CreateCommand())
+            {
+                command.CommandText = "SELECT C_Contactnumber ,C_Stname,C_bildingnum, C_City , C_Floor , C_Apartment FROM [customer] where C_Firstname like '" + textBox2.Text + "'";
+                con1.Open();
+                using (var reader = command.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        textBox3.Text = reader["C_Contactnumber"].ToString();
+                        textBox4.Text = "City :"+ reader["C_City"].ToString()+"   "+"StrName:"+ reader["C_Stname"].ToString() +"\n"+"Bilding No.:"+ reader["C_bildingnum"].ToString()+"   "+" Floor: " +reader["C_Floor"].ToString()+"\t"+"\t"+ "Apartment: "+reader["C_Apartment"].ToString();
+                            
+                    }
+                }
+            }
+
+
+
+        }
+        
+    }
