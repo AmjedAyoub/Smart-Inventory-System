@@ -1,7 +1,9 @@
-﻿namespace GraduationProjectTest {
-    
-    
-    public partial class DataSet1 {
+﻿namespace GraduationProjectTest
+{
+
+
+    public partial class DataSet1
+    {
         partial class SalesDataTable
         {
         }

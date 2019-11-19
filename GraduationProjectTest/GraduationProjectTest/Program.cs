@@ -114,7 +114,7 @@ namespace GraduationProjectTest
                                         xaddemp = new Addemployee();
                                         xadditem = new additem();
                                         xdata = new System.Data.SqlClient.SqlConnection();
-                                        xdata.ConnectionString =@" Data Source=.\SQLEXPRESS;AttachDbFilename=C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\Database1.mdf;Integrated Security=True;User Instance=True";
+                                        xdata.ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\amjad\UW-BOOTCAMP\Smart-Inventory-System\GraduationProjectTest\GraduationProjectTest\Database1.mdf;Integrated Security=True;Connect Timeout=30";
                                     xcash = new Cash();
                                         xcashkeyb = new cashkeybourd();
                                         closecashe = false;
@@ -151,7 +151,7 @@ namespace GraduationProjectTest
                                         xpassword = new insertpassword();
                                         xtabel = new tabels();
                                         xshowemp = new Showemployee();
-                                        xsource = @" Data Source=.\SQLEXPRESS;AttachDbFilename=C:\Users\Amjad\Desktop\Amjad\the last\GraduationProjectTest\GraduationProjectTest\Database1.mdf;Integrated Security=True;User Instance=True";
+                                        xsource = @" Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\amjad\UW-BOOTCAMP\Smart-Inventory-System\GraduationProjectTest\GraduationProjectTest\Database1.mdf;Integrated Security=True;Connect Timeout=30";
                                         xdeleteemp = new deleteemp();
                                         xdeleteitem = new deleteitem();
                                         xmakeoffer = new makeoffer();
