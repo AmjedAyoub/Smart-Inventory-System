@@ -37,14 +37,8 @@ namespace GraduationProjectTest
 
         public void view()
         {
-           
-
-            
-
             int c2 = 0;
-
             int mn2 = 0;
-
             string name = "";
             string quantity = "";
             string expiry = "";
@@ -82,8 +76,6 @@ namespace GraduationProjectTest
                             sprice = reader["I_sellingprice"].ToString();
                             item.Add(name);
                             exp.Add(expiry);
-
-
                         }
                     }
                 }
@@ -202,9 +194,6 @@ namespace GraduationProjectTest
                 r.Text = "Offer of the least sold item";
                 panel2.Controls.Add(r);
             }
-
-
-
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -267,9 +256,6 @@ namespace GraduationProjectTest
                             Program.xsgg.off(exitem[8], max,a);
                             Program.xmanager.sugg();
                         }
-
-
-
                     }
                 }
             }
