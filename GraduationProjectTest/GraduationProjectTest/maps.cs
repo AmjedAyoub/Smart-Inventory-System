@@ -22,8 +22,7 @@ namespace GraduationProjectTest
             try
             {
                 string street = string.Empty;
-                string city = string.Empty;
-               
+                string city = string.Empty;              
 
                 StringBuilder queryAddress = new StringBuilder();
                 queryAddress.Append("http://maps.google.com/maps?q=");
@@ -38,9 +37,7 @@ namespace GraduationProjectTest
                 {
                     city = txtCity.Text.Replace(' ', '+');
                     queryAddress.Append(city + ',' + '+');
-                }
-
-                
+                }                
 
                 webBrowser1.Navigate(queryAddress.ToString());
             }
@@ -60,9 +57,7 @@ namespace GraduationProjectTest
         {
             webBrowser1.Print();
         }
-    }
-
-       
+    }      
     
 
     }
