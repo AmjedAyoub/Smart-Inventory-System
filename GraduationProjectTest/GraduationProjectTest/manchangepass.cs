@@ -33,7 +33,6 @@ namespace GraduationProjectTest
             string con = Program.xsource;
             SqlConnection cn = new SqlConnection(con);
             bool blnfound = false;
-
             cn.Open();
             SqlCommand cmd = new SqlCommand("select * from Employees", cn);
             SqlDataReader dr = cmd.ExecuteReader();
@@ -57,8 +56,6 @@ namespace GraduationProjectTest
                 textBox3.Text = "";
                 textBox4.Text = "";
             }
-
-
             else
             {
                 try
