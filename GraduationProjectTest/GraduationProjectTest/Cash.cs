@@ -15,8 +15,7 @@ using System.Configuration;
 namespace GraduationProjectTest
 {
     public partial class Cash : Form
-    {
-      
+    {      
         AutoCompleteStringCollection namesCollection = new AutoCompleteStringCollection();
         public bool visa = false;
         public string cashiername;
@@ -83,11 +82,7 @@ namespace GraduationProjectTest
                     }
                 }
             }
-
-
-
              Program.xdata.Close();
-
         }
 
         private void phonesearch_btn_Click(object sender, EventArgs e)
@@ -300,8 +295,6 @@ namespace GraduationProjectTest
                                     Program.xmsg.msg(dataGridView1.Rows[x].Cells[0].Value.ToString(), qqqq);
                                     Program.xmsg.Show();
                                 }
-                            
-
                         }
                         else
                             qqqq = (int.Parse(qqqq) - int.Parse(dataGridView1.Rows[x].Cells[2].Value.ToString())).ToString();
@@ -406,8 +399,6 @@ namespace GraduationProjectTest
 
         private void nextextra_btn_Click(object sender, EventArgs e)
         {
-
-
             if (p1 == true)
             {
 
