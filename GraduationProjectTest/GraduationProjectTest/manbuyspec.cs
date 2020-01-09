@@ -21,8 +21,7 @@ namespace GraduationProjectTest
 
         private void manbuyspec_Load(object sender, EventArgs e)
         {
-            // TODO: This line of code loads data into the 'DataSet7.Buy' table. You can move, or remove it, as needed.
-            
+            // TODO: This line of code loads data into the 'DataSet7.Buy' table. You can move, or remove it, as needed.            
         }
 
         private void monthCalendar1_DateChanged(object sender, DateRangeEventArgs e)
@@ -42,7 +41,6 @@ namespace GraduationProjectTest
         private void button1_Click(object sender, EventArgs e)
         {
             this.BuyTableAdapter.Fill(this.DataSet7.Buy,textBox1.Text,textBox2.Text);
-
             this.reportViewer1.RefreshReport();
         }
 
