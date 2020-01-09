@@ -47,12 +47,7 @@ namespace GraduationProjectTest
             SqlDataReader dr1 = cmd1.ExecuteReader();
 
             MessageBox.Show("Your data has been altered successfully"); 
-
-
-
             //////////////////////////////////////////////////////////////////
-
-
             try
             {
                
@@ -78,15 +73,8 @@ namespace GraduationProjectTest
                         textBox7.Text = reader["I_Company"].ToString();
                         textBox3.Text = reader["I_Quantity"].ToString();
                         textBox5.Text = reader["I_Wholesaleprice"].ToString(); 
-                        
-
-
                     }
                 }
-
-
-
-
             }
 
              Program.xdata.Close();
@@ -101,7 +89,6 @@ namespace GraduationProjectTest
              textBox1.Clear();
              textBox2.Clear();
              comboBox1.Text = ""; 
-
         }
 
         private void button3_Click(object sender, EventArgs e)
