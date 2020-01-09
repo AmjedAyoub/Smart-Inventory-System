@@ -29,8 +29,7 @@ namespace GraduationProjectTest
         }
 
         private void button1_Click(object sender, EventArgs e)
-        {
-          
+        {          
             string q2 = Program.xsource;
             SqlConnection cn2 = new SqlConnection(q2);
             SqlCommand cmd2 = new SqlCommand("INSERT INTO [Customer](C_FirstName,C_LastName,C_Email,C_Contactnumber,C_City,C_Stname,C_Bildingnum,C_Floor,C_Apartment)VALUES (@textBox1,@textBox6,@textBox5,@textBox4,@textBox2,@textBox8,@textBox7,@textBox3,@textBox9)", cn2);
