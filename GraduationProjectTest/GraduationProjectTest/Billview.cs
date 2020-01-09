@@ -36,8 +36,6 @@ namespace GraduationProjectTest
         private void button1_Click(object sender, EventArgs e)
         {
             //print code
-
-
             richTextBox1.Clear();
             items.Clear();
             prices.Clear();
@@ -47,7 +45,6 @@ namespace GraduationProjectTest
 
         public void view(string date, string time, string item, string price, string quantity, string cashier, string id,string total)
         {
-            
             for (int i = 0; i < item.Length; i++)
             {
                 string tt1 = "";
