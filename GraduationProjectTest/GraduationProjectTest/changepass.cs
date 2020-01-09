@@ -52,8 +52,6 @@ namespace GraduationProjectTest
                 textBox2.Text = "";
                 textBox3.Text = "";
             }
-
-
             else
             {
                 try
