@@ -26,16 +26,12 @@ namespace GraduationProjectTest
         {
             InitializeComponent();
            
-        }
-
-       
+        }       
 
         private void manager_Load(object sender, EventArgs e)
         {
 
-        }
-
-       
+        }       
       
         private void addNewEmployeeToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -134,7 +130,6 @@ namespace GraduationProjectTest
             panel1.Controls.Add(Program.xbuyl);
         }
 
-
         private void monthlyInventoryToolStripMenuItem_Click(object sender, EventArgs e)
         {
             panel1.Controls.Clear();
@@ -156,9 +151,6 @@ namespace GraduationProjectTest
         private void viewByItemNameToolStripMenuItem_Click(object sender, EventArgs e)
         {
             //Program.xviewava.Show();
-
-
-
             panel1.Controls.Clear();
             Program.xviewava.TopLevel = false;
             Program.xviewava.Visible = true;
@@ -202,7 +194,6 @@ namespace GraduationProjectTest
         private void viewMonthlySalesToolStripMenuItem_Click(object sender, EventArgs e)
         {
            // Program.xmanmonth.Show();
-
             panel1.Controls.Clear();
             Program.xmanmonth.TopLevel = false;
             Program.xmanmonth.Visible = true;
@@ -213,7 +204,6 @@ namespace GraduationProjectTest
         private void viewYearlySalesToolStripMenuItem_Click(object sender, EventArgs e)
         {
            // Program.xmanyear.Show();
-
             panel1.Controls.Clear();
             Program.xmanyear.TopLevel = false;
             Program.xmanyear.Visible = true;
@@ -224,7 +214,6 @@ namespace GraduationProjectTest
         private void viewSalesForSpecificItemToolStripMenuItem_Click(object sender, EventArgs e)
         {
             //Program.xsalesspec.Show();
-
             panel1.Controls.Clear();
             Program.xsalesspec.TopLevel = false;
             Program.xsalesspec.Visible = true;
@@ -537,8 +526,6 @@ namespace GraduationProjectTest
                        label5.Text = " The " + exitem[h] + " will expire on " + DateTime.Parse(exexp[h]).ToShortDateString() + " !!!   *** ";
                        
                     }
-                
-
             }
             else
             {
