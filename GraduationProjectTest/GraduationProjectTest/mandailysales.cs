@@ -18,8 +18,7 @@ namespace GraduationProjectTest
 
         private void mandailysales_Load(object sender, EventArgs e)
         {
-            // TODO: This line of code loads data into the 'DataSet2.Sales' table. You can move, or remove it, as needed.
-           
+            // TODO: This line of code loads data into the 'DataSet2.Sales' table. You can move, or remove it, as needed.           
         }
 
         private void monthCalendar1_DateChanged(object sender, DateRangeEventArgs e)
@@ -32,7 +31,6 @@ namespace GraduationProjectTest
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
             this.SalesTableAdapter.Fill(this.DataSet2.Sales,textBox1.Text);
-
             this.reportViewer1.RefreshReport();
         }
 
