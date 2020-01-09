@@ -39,7 +39,6 @@ namespace GraduationProjectTest
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             this.SalesTableAdapter.Fill(this.DataSet5.Sales,comboBox1.SelectedIndex);
-
             this.reportViewer1.RefreshReport();
         }
 
