@@ -72,9 +72,6 @@ namespace GraduationProjectTest
             string theDate = dateTimePicker1.Value.ToString("MM/dd/yyyy");
             textBox2.Text = theDate.ToString();
 
-
-        }
-
-       
+        }       
     }
 }
