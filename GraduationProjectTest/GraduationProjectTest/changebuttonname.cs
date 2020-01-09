@@ -98,9 +98,7 @@ namespace GraduationProjectTest
                 textBox9.Clear();
                 unitcomboBox2.Text = " ";
                 typecomboBox1.Text = " ";
-            }
-          
-            
+            }            
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -158,8 +156,6 @@ namespace GraduationProjectTest
                             textBox4.Text = reader["I_Tax"].ToString();
                             textBox6.Text = reader["I_Sellingprice"].ToString();
                             textBox8.Text = reader["I_Date"].ToString();
-
-
                         }
                     }
                 }
