@@ -42,8 +42,7 @@ namespace GraduationProjectTest
                 {
                     if (dr["E_Password"].ToString() == textBox2.Text)
                     {
-                        blnfound = true;                     
-
+                        blnfound = true;      
                     }
                 }
             }
@@ -53,8 +52,6 @@ namespace GraduationProjectTest
                 textBox1.Text = "";
                 textBox2.Text = "";
             }
-
-
             else
             {
                 try
