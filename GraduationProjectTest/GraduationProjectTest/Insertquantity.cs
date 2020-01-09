@@ -80,8 +80,7 @@ namespace GraduationProjectTest
         private void button17_Click(object sender, EventArgs e)
         {
             if (textBox4.Text != "")
-            {
-               
+            {               
                 Program.xcash.dataquantity(textBox4.Text);
                 textBox4.Text = "";
                 this.Hide();
