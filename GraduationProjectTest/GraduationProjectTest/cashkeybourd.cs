@@ -20,23 +20,19 @@ namespace GraduationProjectTest
         public double Reminder;
         public cashkeybourd()
         {
-            InitializeComponent();
-            
+            InitializeComponent();            
         }
+
         public void display_bill()
-        {
-            
+        {            
             textBox4.Text = bill.ToString();
         }
 
         public void cashkeybourd_Load(object sender, EventArgs e)
         {
-
             this.Opacity = .9;
             textBox4.Text = bill.ToString();
-        }
-
-      
+        }      
 
         private void seven_Click(object sender, EventArgs e)
         {
