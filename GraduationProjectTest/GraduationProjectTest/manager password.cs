@@ -44,8 +44,6 @@ namespace GraduationProjectTest
                 textBox1.Text = "";
                 textBox2.Text = "";
             }
-
-
             else
             {
                 try
@@ -67,8 +65,6 @@ namespace GraduationProjectTest
 
                 Program.xdata.Close();
 
-
-
                     dr.Close();
                     cn.Close();
                     Program.xmanager.name(name);
@@ -84,8 +80,6 @@ namespace GraduationProjectTest
                     MessageBox.Show(ex.Message.ToString());
                 }
             }
-
-
         }
 
         private void button2ex_Click(object sender, EventArgs e)
